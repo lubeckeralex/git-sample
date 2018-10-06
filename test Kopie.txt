@@ -1,0 +1,2 @@
+Hello Git!
+Das ist neue Zeile!
