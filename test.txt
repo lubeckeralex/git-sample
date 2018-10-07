@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello Git!
+=======
+Hello world!
+>>>>>>> parent of edcf5ac... Secondary Commit
